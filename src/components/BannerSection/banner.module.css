@@ -1,0 +1,116 @@
+@media (min-width: 1920px){
+
+.section{
+    display: flex;
+    width: 56.25rem;
+    height: 25rem;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.nameLabel{
+    font-size: 14px;
+    color: #6880FF;
+    margin: 0;
+    padding-bottom: 1rem;
+}
+
+.h2msg{
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+    padding-bottom: 1.8rem;
+}
+
+.spanmsg{
+    font-size: 16px;
+    color: white;
+    padding-bottom: 1.8rem;
+    margin: 0;
+}
+
+.buttonAbout{
+    background-color: #6880FF;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border: 2px solid #6880ff;
+    border-radius: 10px;
+    margin: 0;
+    width: 8rem;
+    height: 2.5rem;
+
+
+}
+
+.buttonAbout:hover{
+    background-color: #7c91ff;
+}
+
+.divAbout{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+}
+
+@media(max-width: 390px){
+    .section{
+        display: flex;
+        width: 22rem;
+        height: 38rem;
+        justify-content: space-between;
+        flex-direction: column;
+        margin-left: 1rem;
+        padding-bottom: 5rem;
+    }
+    
+    .nameLabel{
+        font-size: 14px;
+        color: #6880FF;
+        margin: 0;
+        padding-bottom: 1rem;
+    }
+    
+    .h2msg{
+        font-size: 48px;
+        font-weight: bold;
+        color: white;
+        margin: 0;
+        padding-bottom: 1.8rem;
+    }
+    
+    .spanmsg{
+        font-size: 16px;
+        color: white;
+        padding-bottom: 1.8rem;
+        margin: 0;
+    }
+    
+    .buttonAbout{
+        background-color: #6880FF;
+        font-size: 16px;
+        font-weight: bold;
+        color: white;
+        border: 2px solid #6880ff;
+        border-radius: 10px;
+        margin: 0;
+        width: 8rem;
+        height: 2.5rem;
+    
+    
+    }
+    
+    .buttonAbout:hover{
+        background-color: #7c91ff;
+    }
+
+    .img{
+        width: 22rem;
+        margin: auto;
+    }
+    
+
+}
+

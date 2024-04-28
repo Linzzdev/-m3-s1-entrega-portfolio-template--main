@@ -1,0 +1,149 @@
+@media (min-width: 1920px){
+
+.section{
+    width: 56.25rem;
+    height: 30rem;
+    border-bottom: 2px solid #FFFFFF80;
+    margin: 0;
+    padding: 0;
+    margin: auto;
+}
+
+.h2Project{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 2rem;
+}
+
+.h3Project{
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    margin: 1rem;
+    padding: 0;
+}
+
+.pProject{
+    font-size: 16px;
+    color: white;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 1rem;
+    margin: 1rem;
+}
+
+.ulProject{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 56.25rem;
+    height: 24rem;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.a{
+    text-decoration: none;
+    margin: 1rem;
+    color: #7B61FF;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.a:hover{
+    color: #7C91FF;
+}
+
+.liProject{
+    width: 27.5rem;
+    height: 10.5rem;
+    border: 2px solid #FFFFFF80;
+    border-radius: 10px;
+    background-image: url(./src/assets/github-icon.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 1.3rem;
+    margin: 0;
+    padding: 0;
+}
+}
+
+@media(max-width: 390px){
+    .section{
+        width: 22rem;
+        height: 57rem;
+        border-bottom: 2px solid #FFFFFF80;
+        margin: 0;
+        padding: 0;
+        margin: auto;
+    }
+    
+    .h2Project{
+        font-size: 40px;
+        font-weight: bold;
+        color: white;
+        margin: 0;
+        padding: 0;
+        padding-bottom: 2rem;
+    }
+    
+    .h3Project{
+        font-size: 22px;
+        font-weight: bold;
+        color: white;
+        margin: 1rem;
+        padding: 0;
+    }
+    
+    .pProject{
+        font-size: 16px;
+        color: white;
+        margin: 0;
+        padding: 0;
+        padding-bottom: 1rem;
+        margin: 1rem;
+    }
+    
+    .ulProject{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 22rem;
+        height: 50rem;
+        padding: 0;
+        margin: 0;
+        
+    }
+    
+    .a{
+        text-decoration: none;
+        margin: 1rem;
+        color: #7B61FF;
+        font-weight: bold;
+        font-size: 16px;
+    }
+    
+    .a:hover{
+        color: #7C91FF;
+    }
+    
+    .liProject{
+        width: 22rem;
+        height: 10.5rem;
+        border: 2px solid #FFFFFF80;
+        border-radius: 10px;
+        background-image: url(./src/assets/github-icon.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        background-position-y: 1.3rem;
+        margin: 0;
+        padding: 0;
+    }
+    
+}
