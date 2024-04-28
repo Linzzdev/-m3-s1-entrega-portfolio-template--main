@@ -8,3 +8,5 @@ export const AboutMeSection = () =>{
         </section>
     )
 }
+
+// avcd
