@@ -4,9 +4,8 @@ export const AboutMeSection = () =>{
     return(
         <section className={styles.section}>
             <h2 className={styles.h2aboutme}>Sobre mim</h2>
-            <p className={styles.pabout}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ex magna, imperdiet sodales sem quis, sollicitudin lobortis purus. Etiam a ipsum finibus, dictum leo non, ultrices dui. Nunc id felis pharetra, vehicula enim in, suscipit nisi. Mauris eget sapien a velit facilisis ullamcorper feugiat nec orci. Duis ac iaculis turpis, at feugiat orci.</p>
+            <p className={styles.pabout}>Apaixonado por tecnologia e fascinado pelo mundo da programação, decidi me inserir no mercado de trabalho como desenvolvedor web. Possuo especialização em React, HTML, CSS, SCSS e JavaScript, e estou pronto para contribuir com minhas habilidades para projetos inovadores e desafiadores. </p>
         </section>
     )
 }
 
-// avcd

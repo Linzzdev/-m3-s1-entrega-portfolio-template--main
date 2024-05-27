@@ -10,7 +10,7 @@ export const ProjectsSection = () =>{
                     <li className={styles.liProject} key={project.name}>
                         <h2 className={styles.h3Project}>{project.name}</h2>
                         <p className={styles.pProject}>{project.description}</p>
-                        <a className={styles.a} href="">Saiba mais</a>
+                        <a className={styles.a} href={project.link} target="blank" >Saiba mais</a>
                     </li>
                 ))}
             </ul>

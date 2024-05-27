@@ -40,6 +40,7 @@
     margin: 0;
     width: 8rem;
     height: 2.5rem;
+    text-decoration:none;
 
 
 }
@@ -98,12 +99,14 @@
         margin: 0;
         width: 8rem;
         height: 2.5rem;
-    
+        text-decoration:none;
     
     }
+
     
     .buttonAbout:hover{
         background-color: #7c91ff;
+        text-decoration:none;
     }
 
     .img{
