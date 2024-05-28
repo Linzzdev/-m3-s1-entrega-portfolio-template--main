@@ -5,9 +5,9 @@ export const projects = [
     link: "https://github.com/Linzzdev/-m3-s1-entrega-portfolio-template--main",
   },
   {
-    name: "Projeto 2",
-    description: "Atividade Praticando Children",
-    link: "",
+    name: "CRUD Finanças",
+    description: "Gerenciador financias, utilizando React e Sass",
+    link: "https://github.com/Linzzdev/react-entrega-s1-nu-kenzie",
   },
   {
     name: "Projeto 3",
