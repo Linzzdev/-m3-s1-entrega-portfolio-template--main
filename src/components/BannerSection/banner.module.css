@@ -1,4 +1,4 @@
-@media (min-width: 1920px){
+@media (max-width: 1920px){
 
 .section{
     display: flex;
@@ -56,7 +56,7 @@
 }
 }
 
-@media(max-width: 390px){
+@media(max-width: 1024px){
     .section{
         display: flex;
         width: 22rem;
