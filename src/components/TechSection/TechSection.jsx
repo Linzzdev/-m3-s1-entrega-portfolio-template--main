@@ -4,7 +4,7 @@ import styles from './techsection.module.css'
 
 export const TechSection = () =>{
     return(
-        <section className={styles.section}>
+        <section id="techSec" className={styles.section}>
             <h2 className={styles.h2tech}>Tecnologias</h2>
             <div>
                 <ul className={styles.ulTec}>

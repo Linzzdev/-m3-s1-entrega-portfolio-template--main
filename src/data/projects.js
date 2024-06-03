@@ -10,9 +10,9 @@ export const projects = [
     link: "https://github.com/Linzzdev/react-entrega-s1-nu-kenzie",
   },
   {
-    name: "Projeto 3",
-    description: "Descrição do projeto",
-    link: "",
+    name: "Landing Page",
+    description: "LP Realizada como pedido da faculdade, utilizando React e Sass",
+    link: "https://github.com/Linzzdev/projeto-lpfaculdade/tree/main",
   },
   {
     name: "Projeto 4",

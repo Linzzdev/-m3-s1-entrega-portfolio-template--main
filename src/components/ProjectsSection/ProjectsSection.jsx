@@ -3,7 +3,7 @@ import styles from './pjsec.module.css'
 
 export const ProjectsSection = () =>{
     return(
-        <section className={styles.section}>
+        <section id="pjSec" className={styles.section}>
             <h2 className={styles.h2Project}>Projetos</h2>
             <ul className={styles.ulProject}>
                 {projects.map(project =>(
